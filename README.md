@@ -13,8 +13,3 @@ Execute o script para coletar as imagens.
 Clone este repositório.
 Execute o script em um ambiente Python compatível.
 Ajuste os URLs e o número de páginas conforme necessário para sua coleta de imagens.
-
-#Observações:
-
-Certifique-se de respeitar os termos de serviço e direitos autorais ao coletar e utilizar imagens do Pinterest.
-Este script foi criado para fins educacionais e pode precisar de ajustes conforme as mudanças no site do Pinterest.
